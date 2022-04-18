@@ -1,3 +1,11 @@
-This website's soul purpose is a rick roll link :)
+This website's soul purpose is rick rolling :)
 
-Link: https://www.kahatacademy.ga/grade-9-math-test
+## Usage
+
+Give your victim this link -> https://www.kahatacademy.ga/text
+  
+You can replace "text" with anything!
+  
+## Example Link
+
+[https://www.kahatacademy.ga/10-minute-math-challenge](https://www.kahatacademy.ga/10-minute-math-challenge)
