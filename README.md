@@ -4,7 +4,7 @@ This website's soul purpose is rick rolling :)
 
 Give your victim this link -> https://www.kahatacademy.ga/text
   
-You can replace "text" with anything!
+You can replace the "text" with anything!
   
 ## Example Link
 
