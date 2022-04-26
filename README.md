@@ -12,6 +12,6 @@ You can replace the "text" with anything!
 
 ## About
 
-This website is created and maintained by [soocc](https://www.soocc.cc)
+This website is created and maintained by [soocc](https://www.soocc.dev)
 
 The website host is [Github Pages](https://pages.github.com/)
