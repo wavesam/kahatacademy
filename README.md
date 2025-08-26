@@ -8,7 +8,7 @@ You can replace the "text" with anything!
   
 ## Example Link
 
-[wavesam.github.io/kahatacademy/10-minute-math-challenge](wavesam.github.io/kahatacademy/10-minute-math-challenge)
+[https://wavesam.github.io/kahatacademy/10-minute-math-challenge](https://wavesam.github.io/kahatacademy/10-minute-math-challenge)
 
 ## About
 
